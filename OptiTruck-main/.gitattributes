@@ -1,0 +1,12 @@
+# Normalise les fins de ligne
+* text=auto
+
+# Force les fichiers texte à être stockés en LF dans Git
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.php text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.sh text eol=lf

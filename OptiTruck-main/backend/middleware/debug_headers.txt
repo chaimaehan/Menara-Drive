@@ -1,0 +1,20 @@
+Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 2246
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsInJvbGUiOiJhZG1pbiIsImNoYXVmZmV1cl9pZCI6MCwiaWF0IjoxNzUzMTk0NjQ0LCJleHAiOjE3NTMxOTgyNDR9.3XKrmEdkGkocbV5ux11HMZQF_9OLcSP1gBOOR4phZJU
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7,ar;q=0.6
+)

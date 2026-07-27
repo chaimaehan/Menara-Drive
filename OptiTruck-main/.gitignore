@@ -1,0 +1,27 @@
+# --- Node / React frontend ---
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.*.local
+frontend/.DS_Store
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# --- PHP backend ---
+backend/vendor/
+backend/.env
+backend/.env.local
+backend/.DS_Store
+backend/storage/
+backend/.vscode/
+
+# --- Global ---
+*.log
+*.lock
+*.tmp
+*.cache
+.idea/
+.vscode/
+*.bak
+*.swp
